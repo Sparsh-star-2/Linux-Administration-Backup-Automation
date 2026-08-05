@@ -59,6 +59,8 @@ The automation scripts help manage:
 
 <img width="1920" height="1080" alt="Script Execution   Health Monitoring" src="https://github.com/user-attachments/assets/f4906715-177b-4f35-b38b-11553b138ccc" />
 
+<img width="1536" height="1024" alt="Linux Administration Backup Automation" src="https://github.com/user-attachments/assets/e4660842-7eda-4bb2-84f1-f76d190e1da3" />
+
 
 
 
